@@ -1,14 +1,13 @@
 ### Hi there 👋
 ![](https://user-images.githubusercontent.com/60614102/89591450-1b8eb580-d842-11ea-8b49-41bd37de6762.png)
-<!--
-**ephieo/ephieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a part of the 2020 Founders & Coders Fullstack Javascript Bootcamp. 
 - 🌱 I’m currently learning  Node.js and focussing on testing and building servers. 
 - 📫 How to reach me: 
 * [LinkedIn](https://www.linkedin.com/in/ephie-oyedoh-147a1999/)
+<!--
+**ephieo/ephieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
