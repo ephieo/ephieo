@@ -2,7 +2,7 @@
 ![](https://user-images.githubusercontent.com/60614102/89591450-1b8eb580-d842-11ea-8b49-41bd37de6762.png)
 - 🔭 I’m currently a part of the 2020 Founders & Coders Fullstack Javascript Bootcamp. 
 - 🌱 I’m currently learning  Node.js and focussing on testing and building servers. 
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ephie-oyedoh-147a1999/)
+- 📫 How to reach me:  [LinkedIn](www.linkedin.com/in/ephie-oyedoh)
 <!--
 **ephieo/ephieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
