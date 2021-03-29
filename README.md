@@ -5,7 +5,7 @@
 - I'm currenlty learning C++ and learning how to build projects from the ground up.  
 - 📫 How to reach me:
 -   [LinkedIn](https://www.linkedin.com/in/ephie-oyedoh)
--   [Email](ephieoyedoh7@gmail.com)
+-   Email : ephieoyedoh7@gmail.com
 <!--
 **ephieo/ephieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
