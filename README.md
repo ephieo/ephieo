@@ -6,7 +6,7 @@
 - 📫 How to reach me:
 -   [LinkedIn](https://www.linkedin.com/in/ephie-oyedoh)
 -   Email : ephieoyedoh7@gmail.com
--   [Portfolio](ephieo.dev)
+-   [Portfolio](https://ephieo.dev/)
 <!--
 **ephieo/ephieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
