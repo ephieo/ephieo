@@ -1,8 +1,11 @@
 ### Hi there 👋
 ![](https://user-images.githubusercontent.com/60614102/89591450-1b8eb580-d842-11ea-8b49-41bd37de6762.png)
-- 🔭 I’m currently a part of the 2020 Founders & Coders Fullstack Javascript Bootcamp. 
-- 🌱 I’m currently learning  Node.js and focussing on testing and building servers. 
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/ephie-oyedoh)
+- 🔭 I was a part of the Founders & Coders Fullstack Javascript Bootcamp participating in the 20th cohort (FAC20). 
+- 🌱 I’m currentlty working at a company called Disguise as a software engineer intern.
+- I'm currenlty learning C++ and learning how to build projects from the ground up.  
+- 📫 How to reach me:
+-   [LinkedIn](https://www.linkedin.com/in/ephie-oyedoh)
+-   [Email](ephieoyedoh7@gmail.com)
 <!--
 **ephieo/ephieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
