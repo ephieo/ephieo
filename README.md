@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://user-images.githubusercontent.com/60614102/89591450-1b8eb580-d842-11ea-8b49-41bd37de6762.png)
+<img width="1080" height="1350" alt="Black   Pink Grunge Coming Soon Instagram Post" src="https://github.com/user-attachments/assets/eaa22e8f-7ba1-4dac-a0ea-581576c4ef20" />
 - 🔭 I was a part of the Founders & Coders Fullstack Javascript Bootcamp participating in the 20th cohort (FAC20). 
 - 🌱 I’m currentlty working at Accurx.
 - 📫 How to reach me:
