@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img width="1080" height="1350" alt="Black   Pink Grunge Coming Soon Instagram Post" src="https://github.com/user-attachments/assets/eaa22e8f-7ba1-4dac-a0ea-581576c4ef20" />
+<img width="800" height="1000" alt="Black   Pink Grunge Coming Soon Instagram Post" src="https://github.com/user-attachments/assets/eaa22e8f-7ba1-4dac-a0ea-581576c4ef20" />
 - 🔭 I was a part of the Founders & Coders Fullstack Javascript Bootcamp participating in the 20th cohort (FAC20). 
 - 🌱 I’m currentlty working at Accurx.
 - 📫 How to reach me:
